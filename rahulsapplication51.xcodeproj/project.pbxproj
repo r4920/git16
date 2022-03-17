@@ -7,32 +7,30 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		08AC5E360DEE6248DEC616CA /* IncomingcallinthemiddleofanothercallView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9D4DCF3826BBD365499D933D /* IncomingcallinthemiddleofanothercallView.swift */; };
-		08AE62D592580C7745554395 /* IncomingCallNotificationMorethanoneprofileView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D7D2BDA865B6376A2BF5F7F7 /* IncomingCallNotificationMorethanoneprofileView.swift */; };
-		0AB68EAEAF862810EF1BFD80 /* IncomingCallNotificationViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6BDC346DAA3440C481110356 /* IncomingCallNotificationViewModel.swift */; };
-		18DB477AA535E40444BA9D78 /* TelegramXMainScreenView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7A488C8CCA000F3115D2F1B8 /* TelegramXMainScreenView.swift */; };
-		222A4D2E4D626B43698FE7F3 /* StringScheme.swift in Sources */ = {isa = PBXBuildFile; fileRef = 112C1DAC9D44569AE82BE732 /* StringScheme.swift */; };
-		2B6E2A6E8B350060746F61C8 /* TelegramXMainScreenViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C97736BA700B3E57EF9B288 /* TelegramXMainScreenViewModel.swift */; };
-		2DEFA1A37BD1990EFEBCF70A /* IncomingcallinthemiddleofanothercallViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA2072DAB10E8C81D7263954 /* IncomingcallinthemiddleofanothercallViewModel.swift */; };
-		2E094E4E42FB26C38FDC888B /* IncomingGroupCallNotificationViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = EFFBA268E8CF37284EE7FFA9 /* IncomingGroupCallNotificationViewModel.swift */; };
-		348621556FB97262C206986F /* robotobold700.ttf in Resources */ = {isa = PBXBuildFile; fileRef = E617C3F07D3CA8CBE454A929 /* robotobold700.ttf */; };
-		35E469A53C664563C0CA2A09 /* Group6Cell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 922860A368C84828F86CA67E /* Group6Cell.swift */; };
-		396E2BDADB9F2763FE729045 /* robotoregular400.ttf in Resources */ = {isa = PBXBuildFile; fileRef = CB9D7FB42B9E3570352D483A /* robotoregular400.ttf */; };
-		3996C58B289BC1B812CB0F02 /* IncomingCallNotification1View.swift in Sources */ = {isa = PBXBuildFile; fileRef = E4E48F8A9C0E5DDE9921C3D1 /* IncomingCallNotification1View.swift */; };
-		47C28E5F12618EF81A300542 /* Group4Cell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 137FE6DBD6890BBF7E099040 /* Group4Cell.swift */; };
-		4A2DE121DBB152B3776B269E /* AppnavigationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E2729101119E96DED0429801 /* AppnavigationView.swift */; };
-		63CB05DF8323FB46627A96B2 /* FontScheme.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8AA2C7021EC49225C6F0309E /* FontScheme.swift */; };
-		70A98CC15B733EEB908E0C05 /* ColorConstants.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA40E6149F3046CDF8A45CA1 /* ColorConstants.swift */; };
-		730B784D31ADE1C0488F72FC /* Group7Cell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 718874B5CA81EFE78F3863EF /* Group7Cell.swift */; };
-		784EA282C6DDB7F6B10E5356 /* IncomingCallNotificationMorethanoneprofileViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = C0C1267068ABFC566486D55F /* IncomingCallNotificationMorethanoneprofileViewModel.swift */; };
-		78F7F71DF3612BF72CEA7066 /* AppnavigationViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 41EAAE492621697BF5BC0E77 /* AppnavigationViewModel.swift */; };
+		15691876BCCF581CE55AC307 /* Group2Cell.swift in Sources */ = {isa = PBXBuildFile; fileRef = A5E0588812A261A2CD32EAA0 /* Group2Cell.swift */; };
+		1DF95EE6C8236F4241677A6F /* TelegramXMainScreenViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = BB1B2EC17B6015F291BCDB56 /* TelegramXMainScreenViewModel.swift */; };
+		1FC53811E820074D50C94537 /* Group5Cell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 36A7C346FE3ACB110EF2E3F3 /* Group5Cell.swift */; };
+		24B8DD5F4A5D8C87BA8BCD90 /* FontScheme.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6746ACE3455D3C99DA17BDE2 /* FontScheme.swift */; };
+		285CAFE556F23A7337031310 /* IncomingCallNotificationMorethanoneprofileView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 16DCCA8BBFE682BC6D9E7C28 /* IncomingCallNotificationMorethanoneprofileView.swift */; };
+		291BD0090B2F0D2A7234646D /* AppnavigationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CBEED03F179637DD57E82AC1 /* AppnavigationView.swift */; };
+		29826781A1B609B3C178C9F4 /* Group7Cell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A1DB6296BA47F253B795756 /* Group7Cell.swift */; };
+		2DEF59C52D3DAD3183FB73C1 /* robotobold700.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 2A879260D20D3F55F98CA5C8 /* robotobold700.ttf */; };
+		3108DCA1F043A4AAEF054BEA /* TelegramXMainScreenView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A7B9B59129BF4A56A6DF1F87 /* TelegramXMainScreenView.swift */; };
+		39B6ED6253FD6D6A30078602 /* Group4Cell.swift in Sources */ = {isa = PBXBuildFile; fileRef = B77B4A1293C79A7F098EDD52 /* Group4Cell.swift */; };
+		3FDC531D811D48426C7EF3F2 /* IncomingGroupCallNotificationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2EF46E5A0E58E30A314486AB /* IncomingGroupCallNotificationView.swift */; };
+		4BD82FE96A0F6034DB056E85 /* robotoregular400.ttf in Resources */ = {isa = PBXBuildFile; fileRef = D7DA38A80403A57974B7893B /* robotoregular400.ttf */; };
+		54C840504EAB454CC64E91F0 /* AppnavigationViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8D17CF58B7E7935612E0610B /* AppnavigationViewModel.swift */; };
+		5BD065958E507B0B05A5498C /* Group1Cell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 39C0026E58C4EF2080346621 /* Group1Cell.swift */; };
+		5FFD8DB5F9F96A0501261A6D /* Group3Cell.swift in Sources */ = {isa = PBXBuildFile; fileRef = F957BFF3E6E8F41BF5EB6673 /* Group3Cell.swift */; };
+		6B29171573E12602ADA30B5C /* robotomedium500.ttf in Resources */ = {isa = PBXBuildFile; fileRef = E1A4B83A4E8DC01807D27387 /* robotomedium500.ttf */; };
 		7F44DBA127422A5D00171570 /* ActivityLoader.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7F44DBA027422A5D00171570 /* ActivityLoader.swift */; };
-		8224505850FE79ED7CDAE995 /* Group5Cell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0FF96886832CCE78AD8F6C7C /* Group5Cell.swift */; };
+		866F55F8AF6B08E6A3DFEB7D /* IncomingCallNotification1View.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B069A7DF6865D0333D5BD16 /* IncomingCallNotification1View.swift */; };
 		884F3E5127B0E65A00963FC4 /* RoundedCornersView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 884F3E5027B0E65A00963FC4 /* RoundedCornersView.swift */; };
 		8853052627718DC500B04E6F /* ViewExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8853052527718DC500B04E6F /* ViewExtension.swift */; };
 		8853052A27718E2D00B04E6F /* EncodableExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8853052927718E2D00B04E6F /* EncodableExtension.swift */; };
 		8853052C2771949600B04E6F /* UINavigationController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8853052B2771949600B04E6F /* UINavigationController.swift */; };
 		88680D1C2775C601002E964F /* ViewportHelper.swift in Sources */ = {isa = PBXBuildFile; fileRef = 88680D1B2775C601002E964F /* ViewportHelper.swift */; };
+		8884CA5D64E68BC0D758CCF6 /* Group8Cell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3450E9C504877C8DCC2B6B4B /* Group8Cell.swift */; };
 		888CB47527686A000041116C /* APIExtensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 888CB47427686A000041116C /* APIExtensions.swift */; };
 		88ED74EC272FFE6F0088E3EF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 88ED74EB272FFE6F0088E3EF /* Assets.xcassets */; };
 		88ED74EF272FFE6F0088E3EF /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 88ED74EE272FFE6F0088E3EF /* Preview Assets.xcassets */; };
@@ -40,32 +38,34 @@
 		88ED7501272FFECA0088E3EF /* AppConstants.swift in Sources */ = {isa = PBXBuildFile; fileRef = 88ED74F9272FFECA0088E3EF /* AppConstants.swift */; };
 		88ED7503272FFECA0088E3EF /* APIManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 88ED74FD272FFECA0088E3EF /* APIManager.swift */; };
 		88ED7504272FFECA0088E3EF /* rahulsapplication51App.swift in Sources */ = {isa = PBXBuildFile; fileRef = 88ED74FF272FFECA0088E3EF /* rahulsapplication51App.swift */; };
-		899573992F33757A1EC38F69 /* Group2Cell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33E1B832EECF327E545AF317 /* Group2Cell.swift */; };
-		964E97D46ACDD5CC930679A1 /* Group3Cell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7CC89E179AFEDAF950885353 /* Group3Cell.swift */; };
-		A8E50ECD7E2A966F8E12B64D /* Group1Cell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E135D337ED4DBC99E1822E5 /* Group1Cell.swift */; };
-		A930E1B741EA9B2B90BE66FC /* Group8Cell.swift in Sources */ = {isa = PBXBuildFile; fileRef = F5866A776CFE01A310279906 /* Group8Cell.swift */; };
-		B2B342BF3E118D504A577357 /* robotomedium500.ttf in Resources */ = {isa = PBXBuildFile; fileRef = B19B1AA1EFEDDF74C7730F79 /* robotomedium500.ttf */; };
-		BC93142709E0FE0FF5DA47D9 /* IncomingGroupCallNotificationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E1CFA8C97E07C45A7601871D /* IncomingGroupCallNotificationView.swift */; };
+		8A1FC8B0BF9C292C1647CECA /* IncomingcallinthemiddleofanothercallViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6B07643C7FB4FF636B2492BE /* IncomingcallinthemiddleofanothercallViewModel.swift */; };
+		8B796DA338B3EDA679538E71 /* IncomingCallNotificationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 73229422C41B680666ED3BD5 /* IncomingCallNotificationView.swift */; };
+		8C88F8693E26075971D70998 /* IncomingCallNotificationViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8D1EFC2D92C9C6DF23A343C0 /* IncomingCallNotificationViewModel.swift */; };
+		99485A51CDFCEDC622BEB2B1 /* ColorConstants.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5913202401BF793D74DE6883 /* ColorConstants.swift */; };
+		9C4742C684C54BACC26F1644 /* IncomingCallNotificationMorethanoneprofileViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 43DB127133E8BEA09DB8DFC5 /* IncomingCallNotificationMorethanoneprofileViewModel.swift */; };
+		9FE258FBFCD67A44FAA49729 /* IncomingGroupCallNotificationViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8A7103918AD980331BDD9FD5 /* IncomingGroupCallNotificationViewModel.swift */; };
+		A21BEB78CA1AA2582901E170 /* GroupCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = ABD341DA9DB0B7513C2B8504 /* GroupCell.swift */; };
+		AA2A98DCE4A3E4E034C2480B /* Group6Cell.swift in Sources */ = {isa = PBXBuildFile; fileRef = A175928BDD214FF25EA803DC /* Group6Cell.swift */; };
 		C40AB9F82754D79E006BC5D7 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C40AB9F72754D79E006BC5D7 /* AppDelegate.swift */; };
-		C734785CE40F83BFC4098240 /* IncomingCallNotificationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 72685C14E56C26355300F880 /* IncomingCallNotificationView.swift */; };
-		CBD061CC944B5B90E1399762 /* GroupCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E1BA70216AC7AECA2F713E0 /* GroupCell.swift */; };
-		F73C983328ACA1AB9F43FB85 /* IncomingCallNotification1ViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = D620C3742FB95A4EC0901F3A /* IncomingCallNotification1ViewModel.swift */; };
+		D2B8F6566C926FC310B455E6 /* StringScheme.swift in Sources */ = {isa = PBXBuildFile; fileRef = D08349360F582F812C3919AC /* StringScheme.swift */; };
+		EB2F084DBF8D3AB4CEBA9AC5 /* IncomingcallinthemiddleofanothercallView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C76CCE292CFBB9B4001A056 /* IncomingcallinthemiddleofanothercallView.swift */; };
+		EEC53FDDF749E4946CEF373D /* IncomingCallNotification1ViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = A7947D764EF4FFF60C008FA6 /* IncomingCallNotification1ViewModel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		0E135D337ED4DBC99E1822E5 /* Group1Cell.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = Group1Cell.swift; sourceTree = "<group>"; };
-		0FF96886832CCE78AD8F6C7C /* Group5Cell.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = Group5Cell.swift; sourceTree = "<group>"; };
-		112C1DAC9D44569AE82BE732 /* StringScheme.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = StringScheme.swift; sourceTree = "<group>"; };
-		137FE6DBD6890BBF7E099040 /* Group4Cell.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = Group4Cell.swift; sourceTree = "<group>"; };
-		33E1B832EECF327E545AF317 /* Group2Cell.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = Group2Cell.swift; sourceTree = "<group>"; };
-		41EAAE492621697BF5BC0E77 /* AppnavigationViewModel.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = AppnavigationViewModel.swift; sourceTree = "<group>"; };
-		4C97736BA700B3E57EF9B288 /* TelegramXMainScreenViewModel.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = TelegramXMainScreenViewModel.swift; sourceTree = "<group>"; };
-		4E1BA70216AC7AECA2F713E0 /* GroupCell.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = GroupCell.swift; sourceTree = "<group>"; };
-		6BDC346DAA3440C481110356 /* IncomingCallNotificationViewModel.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = IncomingCallNotificationViewModel.swift; sourceTree = "<group>"; };
-		718874B5CA81EFE78F3863EF /* Group7Cell.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = Group7Cell.swift; sourceTree = "<group>"; };
-		72685C14E56C26355300F880 /* IncomingCallNotificationView.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = IncomingCallNotificationView.swift; sourceTree = "<group>"; };
-		7A488C8CCA000F3115D2F1B8 /* TelegramXMainScreenView.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = TelegramXMainScreenView.swift; sourceTree = "<group>"; };
-		7CC89E179AFEDAF950885353 /* Group3Cell.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = Group3Cell.swift; sourceTree = "<group>"; };
+		0A1DB6296BA47F253B795756 /* Group7Cell.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = Group7Cell.swift; sourceTree = "<group>"; };
+		16DCCA8BBFE682BC6D9E7C28 /* IncomingCallNotificationMorethanoneprofileView.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = IncomingCallNotificationMorethanoneprofileView.swift; sourceTree = "<group>"; };
+		2A879260D20D3F55F98CA5C8 /* robotobold700.ttf */ = {isa = PBXFileReference; includeInIndex = 1; path = robotobold700.ttf; sourceTree = "<group>"; };
+		2EF46E5A0E58E30A314486AB /* IncomingGroupCallNotificationView.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = IncomingGroupCallNotificationView.swift; sourceTree = "<group>"; };
+		3450E9C504877C8DCC2B6B4B /* Group8Cell.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = Group8Cell.swift; sourceTree = "<group>"; };
+		36A7C346FE3ACB110EF2E3F3 /* Group5Cell.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = Group5Cell.swift; sourceTree = "<group>"; };
+		39C0026E58C4EF2080346621 /* Group1Cell.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = Group1Cell.swift; sourceTree = "<group>"; };
+		43DB127133E8BEA09DB8DFC5 /* IncomingCallNotificationMorethanoneprofileViewModel.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = IncomingCallNotificationMorethanoneprofileViewModel.swift; sourceTree = "<group>"; };
+		5913202401BF793D74DE6883 /* ColorConstants.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = ColorConstants.swift; sourceTree = "<group>"; };
+		5C76CCE292CFBB9B4001A056 /* IncomingcallinthemiddleofanothercallView.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = IncomingcallinthemiddleofanothercallView.swift; sourceTree = "<group>"; };
+		6746ACE3455D3C99DA17BDE2 /* FontScheme.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = FontScheme.swift; sourceTree = "<group>"; };
+		6B07643C7FB4FF636B2492BE /* IncomingcallinthemiddleofanothercallViewModel.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = IncomingcallinthemiddleofanothercallViewModel.swift; sourceTree = "<group>"; };
+		73229422C41B680666ED3BD5 /* IncomingCallNotificationView.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = IncomingCallNotificationView.swift; sourceTree = "<group>"; };
 		7F44DBA027422A5D00171570 /* ActivityLoader.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ActivityLoader.swift; sourceTree = "<group>"; };
 		884F3E5027B0E65A00963FC4 /* RoundedCornersView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RoundedCornersView.swift; sourceTree = "<group>"; };
 		8853052527718DC500B04E6F /* ViewExtension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewExtension.swift; sourceTree = "<group>"; };
@@ -81,23 +81,23 @@
 		88ED74F9272FFECA0088E3EF /* AppConstants.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AppConstants.swift; sourceTree = "<group>"; };
 		88ED74FD272FFECA0088E3EF /* APIManager.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = APIManager.swift; sourceTree = "<group>"; };
 		88ED74FF272FFECA0088E3EF /* rahulsapplication51App.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = rahulsapplication51App.swift; sourceTree = "<group>"; };
-		8AA2C7021EC49225C6F0309E /* FontScheme.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = FontScheme.swift; sourceTree = "<group>"; };
-		922860A368C84828F86CA67E /* Group6Cell.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = Group6Cell.swift; sourceTree = "<group>"; };
-		9D4DCF3826BBD365499D933D /* IncomingcallinthemiddleofanothercallView.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = IncomingcallinthemiddleofanothercallView.swift; sourceTree = "<group>"; };
-		AA2072DAB10E8C81D7263954 /* IncomingcallinthemiddleofanothercallViewModel.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = IncomingcallinthemiddleofanothercallViewModel.swift; sourceTree = "<group>"; };
-		B19B1AA1EFEDDF74C7730F79 /* robotomedium500.ttf */ = {isa = PBXFileReference; includeInIndex = 1; path = robotomedium500.ttf; sourceTree = "<group>"; };
-		C0C1267068ABFC566486D55F /* IncomingCallNotificationMorethanoneprofileViewModel.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = IncomingCallNotificationMorethanoneprofileViewModel.swift; sourceTree = "<group>"; };
+		8A7103918AD980331BDD9FD5 /* IncomingGroupCallNotificationViewModel.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = IncomingGroupCallNotificationViewModel.swift; sourceTree = "<group>"; };
+		8D17CF58B7E7935612E0610B /* AppnavigationViewModel.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = AppnavigationViewModel.swift; sourceTree = "<group>"; };
+		8D1EFC2D92C9C6DF23A343C0 /* IncomingCallNotificationViewModel.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = IncomingCallNotificationViewModel.swift; sourceTree = "<group>"; };
+		9B069A7DF6865D0333D5BD16 /* IncomingCallNotification1View.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = IncomingCallNotification1View.swift; sourceTree = "<group>"; };
+		A175928BDD214FF25EA803DC /* Group6Cell.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = Group6Cell.swift; sourceTree = "<group>"; };
+		A5E0588812A261A2CD32EAA0 /* Group2Cell.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = Group2Cell.swift; sourceTree = "<group>"; };
+		A7947D764EF4FFF60C008FA6 /* IncomingCallNotification1ViewModel.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = IncomingCallNotification1ViewModel.swift; sourceTree = "<group>"; };
+		A7B9B59129BF4A56A6DF1F87 /* TelegramXMainScreenView.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = TelegramXMainScreenView.swift; sourceTree = "<group>"; };
+		ABD341DA9DB0B7513C2B8504 /* GroupCell.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = GroupCell.swift; sourceTree = "<group>"; };
+		B77B4A1293C79A7F098EDD52 /* Group4Cell.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = Group4Cell.swift; sourceTree = "<group>"; };
+		BB1B2EC17B6015F291BCDB56 /* TelegramXMainScreenViewModel.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = TelegramXMainScreenViewModel.swift; sourceTree = "<group>"; };
 		C40AB9F72754D79E006BC5D7 /* AppDelegate.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		CB9D7FB42B9E3570352D483A /* robotoregular400.ttf */ = {isa = PBXFileReference; includeInIndex = 1; path = robotoregular400.ttf; sourceTree = "<group>"; };
-		D620C3742FB95A4EC0901F3A /* IncomingCallNotification1ViewModel.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = IncomingCallNotification1ViewModel.swift; sourceTree = "<group>"; };
-		D7D2BDA865B6376A2BF5F7F7 /* IncomingCallNotificationMorethanoneprofileView.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = IncomingCallNotificationMorethanoneprofileView.swift; sourceTree = "<group>"; };
-		E1CFA8C97E07C45A7601871D /* IncomingGroupCallNotificationView.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = IncomingGroupCallNotificationView.swift; sourceTree = "<group>"; };
-		E2729101119E96DED0429801 /* AppnavigationView.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = AppnavigationView.swift; sourceTree = "<group>"; };
-		E4E48F8A9C0E5DDE9921C3D1 /* IncomingCallNotification1View.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = IncomingCallNotification1View.swift; sourceTree = "<group>"; };
-		E617C3F07D3CA8CBE454A929 /* robotobold700.ttf */ = {isa = PBXFileReference; includeInIndex = 1; path = robotobold700.ttf; sourceTree = "<group>"; };
-		EFFBA268E8CF37284EE7FFA9 /* IncomingGroupCallNotificationViewModel.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = IncomingGroupCallNotificationViewModel.swift; sourceTree = "<group>"; };
-		F5866A776CFE01A310279906 /* Group8Cell.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = Group8Cell.swift; sourceTree = "<group>"; };
-		FA40E6149F3046CDF8A45CA1 /* ColorConstants.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = ColorConstants.swift; sourceTree = "<group>"; };
+		CBEED03F179637DD57E82AC1 /* AppnavigationView.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = AppnavigationView.swift; sourceTree = "<group>"; };
+		D08349360F582F812C3919AC /* StringScheme.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = StringScheme.swift; sourceTree = "<group>"; };
+		D7DA38A80403A57974B7893B /* robotoregular400.ttf */ = {isa = PBXFileReference; includeInIndex = 1; path = robotoregular400.ttf; sourceTree = "<group>"; };
+		E1A4B83A4E8DC01807D27387 /* robotomedium500.ttf */ = {isa = PBXFileReference; includeInIndex = 1; path = robotomedium500.ttf; sourceTree = "<group>"; };
+		F957BFF3E6E8F41BF5EB6673 /* Group3Cell.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = Group3Cell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -111,22 +111,84 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		0376518CAB1FC02B32077FD9 /* Views */ = {
+		0E9A3380144B62B9D4264980 /* Views */ = {
 			isa = PBXGroup;
 			children = (
-				FE83C32ED89F11F49125D682 /* TelegramXMainScreenView */,
-				4C4CBB700477053FAA8A9FAB /* IncomingCallNotificationView */,
-				E45C5867C6C33FF7D2F2B98F /* IncomingCallNotification1View */,
-				C4FF800E7053A037FEB47D12 /* IncomingCallNotificationMorethanoneprofileView */,
-				83C679539151BBB02F298B63 /* IncomingGroupCallNotificationView */,
-				852A9CCFC4674E7B054DD24A /* IncomingcallinthemiddleofanothercallView */,
-				F0BEA51A6B727D0A46EEFA1A /* AppnavigationView */,
+				66265C3745273A48B77EC81E /* TelegramXMainScreenView */,
+				B36662AB15E2459FB3C6ECA1 /* IncomingCallNotificationView */,
+				9FEAEEF9DE9182D74D8A8C91 /* IncomingCallNotification1View */,
+				45AE7FD21DE47A169CEC1B10 /* IncomingCallNotificationMorethanoneprofileView */,
+				37FE8BD4E983B5015110132B /* IncomingGroupCallNotificationView */,
+				978C1BDA74CBE202113B470A /* IncomingcallinthemiddleofanothercallView */,
+				117F7552DADA08648F5E9A5D /* AppnavigationView */,
 			);
 			name = Views;
 			path = Views;
 			sourceTree = "<group>";
 		};
-		069741FCC068B410837BCAE1 /* CustomViews */ = {
+		117F7552DADA08648F5E9A5D /* AppnavigationView */ = {
+			isa = PBXGroup;
+			children = (
+				CBEED03F179637DD57E82AC1 /* AppnavigationView.swift */,
+				8D17CF58B7E7935612E0610B /* AppnavigationViewModel.swift */,
+			);
+			name = AppnavigationView;
+			path = AppnavigationView;
+			sourceTree = "<group>";
+		};
+		2A70192998E01F2F5F30FD74 /* Fonts */ = {
+			isa = PBXGroup;
+			children = (
+				2A879260D20D3F55F98CA5C8 /* robotobold700.ttf */,
+				E1A4B83A4E8DC01807D27387 /* robotomedium500.ttf */,
+				D7DA38A80403A57974B7893B /* robotoregular400.ttf */,
+			);
+			name = Fonts;
+			path = Fonts;
+			sourceTree = "<group>";
+		};
+		3354F7ABCDDA4A5E151C24EF /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				2A70192998E01F2F5F30FD74 /* Fonts */,
+			);
+			name = Resources;
+			path = Resources;
+			sourceTree = "<group>";
+		};
+		37FE8BD4E983B5015110132B /* IncomingGroupCallNotificationView */ = {
+			isa = PBXGroup;
+			children = (
+				2EF46E5A0E58E30A314486AB /* IncomingGroupCallNotificationView.swift */,
+				5E3BC61285F4F63C18A02681 /* Cell */,
+				8A7103918AD980331BDD9FD5 /* IncomingGroupCallNotificationViewModel.swift */,
+			);
+			name = IncomingGroupCallNotificationView;
+			path = IncomingGroupCallNotificationView;
+			sourceTree = "<group>";
+		};
+		45AE7FD21DE47A169CEC1B10 /* IncomingCallNotificationMorethanoneprofileView */ = {
+			isa = PBXGroup;
+			children = (
+				16DCCA8BBFE682BC6D9E7C28 /* IncomingCallNotificationMorethanoneprofileView.swift */,
+				98912BEF510084ACFC24444E /* Cell */,
+				43DB127133E8BEA09DB8DFC5 /* IncomingCallNotificationMorethanoneprofileViewModel.swift */,
+			);
+			name = IncomingCallNotificationMorethanoneprofileView;
+			path = IncomingCallNotificationMorethanoneprofileView;
+			sourceTree = "<group>";
+		};
+		5E3BC61285F4F63C18A02681 /* Cell */ = {
+			isa = PBXGroup;
+			children = (
+				0A1DB6296BA47F253B795756 /* Group7Cell.swift */,
+				3450E9C504877C8DCC2B6B4B /* Group8Cell.swift */,
+			);
+			name = Cell;
+			path = Cell;
+			sourceTree = "<group>";
+		};
+		609C7F50EC07D63CE5EAF97D /* CustomViews */ = {
 			isa = PBXGroup;
 			children = (
 			);
@@ -134,54 +196,15 @@
 			path = CustomViews;
 			sourceTree = "<group>";
 		};
-		1EA1BB38232A22B24AAAAC7E /* Resources */ = {
+		66265C3745273A48B77EC81E /* TelegramXMainScreenView */ = {
 			isa = PBXGroup;
 			children = (
-				69C6C082904C9DBD19850619 /* Fonts */,
+				A7B9B59129BF4A56A6DF1F87 /* TelegramXMainScreenView.swift */,
+				FCFA0A30D27C696BE31667F6 /* Cell */,
+				BB1B2EC17B6015F291BCDB56 /* TelegramXMainScreenViewModel.swift */,
 			);
-			name = Resources;
-			path = Resources;
-			sourceTree = "<group>";
-		};
-		30DF3A97BD867B033B896970 /* Cell */ = {
-			isa = PBXGroup;
-			children = (
-				4E1BA70216AC7AECA2F713E0 /* GroupCell.swift */,
-			);
-			name = Cell;
-			path = Cell;
-			sourceTree = "<group>";
-		};
-		3D2B265FBC2BD5617F4F72C0 /* Cell */ = {
-			isa = PBXGroup;
-			children = (
-				718874B5CA81EFE78F3863EF /* Group7Cell.swift */,
-				F5866A776CFE01A310279906 /* Group8Cell.swift */,
-			);
-			name = Cell;
-			path = Cell;
-			sourceTree = "<group>";
-		};
-		4C4CBB700477053FAA8A9FAB /* IncomingCallNotificationView */ = {
-			isa = PBXGroup;
-			children = (
-				72685C14E56C26355300F880 /* IncomingCallNotificationView.swift */,
-				A92E04E0FEC6965C763DFFEC /* Cell */,
-				6BDC346DAA3440C481110356 /* IncomingCallNotificationViewModel.swift */,
-			);
-			name = IncomingCallNotificationView;
-			path = IncomingCallNotificationView;
-			sourceTree = "<group>";
-		};
-		69C6C082904C9DBD19850619 /* Fonts */ = {
-			isa = PBXGroup;
-			children = (
-				E617C3F07D3CA8CBE454A929 /* robotobold700.ttf */,
-				B19B1AA1EFEDDF74C7730F79 /* robotomedium500.ttf */,
-				CB9D7FB42B9E3570352D483A /* robotoregular400.ttf */,
-			);
-			name = Fonts;
-			path = Fonts;
+			name = TelegramXMainScreenView;
+			path = TelegramXMainScreenView;
 			sourceTree = "<group>";
 		};
 		7F44DB9E27422A4200171570 /* Helper */ = {
@@ -199,27 +222,6 @@
 				7F44DBA027422A5D00171570 /* ActivityLoader.swift */,
 			);
 			path = ActivityLoader;
-			sourceTree = "<group>";
-		};
-		83C679539151BBB02F298B63 /* IncomingGroupCallNotificationView */ = {
-			isa = PBXGroup;
-			children = (
-				E1CFA8C97E07C45A7601871D /* IncomingGroupCallNotificationView.swift */,
-				3D2B265FBC2BD5617F4F72C0 /* Cell */,
-				EFFBA268E8CF37284EE7FFA9 /* IncomingGroupCallNotificationViewModel.swift */,
-			);
-			name = IncomingGroupCallNotificationView;
-			path = IncomingGroupCallNotificationView;
-			sourceTree = "<group>";
-		};
-		852A9CCFC4674E7B054DD24A /* IncomingcallinthemiddleofanothercallView */ = {
-			isa = PBXGroup;
-			children = (
-				9D4DCF3826BBD365499D933D /* IncomingcallinthemiddleofanothercallView.swift */,
-				AA2072DAB10E8C81D7263954 /* IncomingcallinthemiddleofanothercallViewModel.swift */,
-			);
-			name = IncomingcallinthemiddleofanothercallView;
-			path = IncomingcallinthemiddleofanothercallView;
 			sourceTree = "<group>";
 		};
 		88680D1A2775C5BD002E964F /* Viewport */ = {
@@ -258,9 +260,9 @@
 				88ED74EB272FFE6F0088E3EF /* Assets.xcassets */,
 				88ED74F0272FFE6F0088E3EF /* Info.plist */,
 				88ED74ED272FFE6F0088E3EF /* Preview Content */,
-				1EA1BB38232A22B24AAAAC7E /* Resources */,
-				0376518CAB1FC02B32077FD9 /* Views */,
-				069741FCC068B410837BCAE1 /* CustomViews */,
+				3354F7ABCDDA4A5E151C24EF /* Resources */,
+				0E9A3380144B62B9D4264980 /* Views */,
+				609C7F50EC07D63CE5EAF97D /* CustomViews */,
 			);
 			path = rahulsapplication51;
 			sourceTree = "<group>";
@@ -285,9 +287,9 @@
 			isa = PBXGroup;
 			children = (
 				88ED74F9272FFECA0088E3EF /* AppConstants.swift */,
-				112C1DAC9D44569AE82BE732 /* StringScheme.swift */,
-				FA40E6149F3046CDF8A45CA1 /* ColorConstants.swift */,
-				8AA2C7021EC49225C6F0309E /* FontScheme.swift */,
+				D08349360F582F812C3919AC /* StringScheme.swift */,
+				5913202401BF793D74DE6883 /* ColorConstants.swift */,
+				6746ACE3455D3C99DA17BDE2 /* FontScheme.swift */,
 			);
 			path = Constants;
 			sourceTree = "<group>";
@@ -321,77 +323,75 @@
 			path = Application;
 			sourceTree = "<group>";
 		};
-		A6F478A085C6F22D87F86EF5 /* Cell */ = {
+		978C1BDA74CBE202113B470A /* IncomingcallinthemiddleofanothercallView */ = {
 			isa = PBXGroup;
 			children = (
-				7CC89E179AFEDAF950885353 /* Group3Cell.swift */,
-				137FE6DBD6890BBF7E099040 /* Group4Cell.swift */,
+				5C76CCE292CFBB9B4001A056 /* IncomingcallinthemiddleofanothercallView.swift */,
+				6B07643C7FB4FF636B2492BE /* IncomingcallinthemiddleofanothercallViewModel.swift */,
+			);
+			name = IncomingcallinthemiddleofanothercallView;
+			path = IncomingcallinthemiddleofanothercallView;
+			sourceTree = "<group>";
+		};
+		98912BEF510084ACFC24444E /* Cell */ = {
+			isa = PBXGroup;
+			children = (
+				36A7C346FE3ACB110EF2E3F3 /* Group5Cell.swift */,
+				A175928BDD214FF25EA803DC /* Group6Cell.swift */,
 			);
 			name = Cell;
 			path = Cell;
 			sourceTree = "<group>";
 		};
-		A92E04E0FEC6965C763DFFEC /* Cell */ = {
+		9FEAEEF9DE9182D74D8A8C91 /* IncomingCallNotification1View */ = {
 			isa = PBXGroup;
 			children = (
-				0E135D337ED4DBC99E1822E5 /* Group1Cell.swift */,
-				33E1B832EECF327E545AF317 /* Group2Cell.swift */,
-			);
-			name = Cell;
-			path = Cell;
-			sourceTree = "<group>";
-		};
-		C4FF800E7053A037FEB47D12 /* IncomingCallNotificationMorethanoneprofileView */ = {
-			isa = PBXGroup;
-			children = (
-				D7D2BDA865B6376A2BF5F7F7 /* IncomingCallNotificationMorethanoneprofileView.swift */,
-				FDFD5E5DDB26973C10A9905B /* Cell */,
-				C0C1267068ABFC566486D55F /* IncomingCallNotificationMorethanoneprofileViewModel.swift */,
-			);
-			name = IncomingCallNotificationMorethanoneprofileView;
-			path = IncomingCallNotificationMorethanoneprofileView;
-			sourceTree = "<group>";
-		};
-		E45C5867C6C33FF7D2F2B98F /* IncomingCallNotification1View */ = {
-			isa = PBXGroup;
-			children = (
-				E4E48F8A9C0E5DDE9921C3D1 /* IncomingCallNotification1View.swift */,
-				A6F478A085C6F22D87F86EF5 /* Cell */,
-				D620C3742FB95A4EC0901F3A /* IncomingCallNotification1ViewModel.swift */,
+				9B069A7DF6865D0333D5BD16 /* IncomingCallNotification1View.swift */,
+				F6DB73751A1ECAF402051511 /* Cell */,
+				A7947D764EF4FFF60C008FA6 /* IncomingCallNotification1ViewModel.swift */,
 			);
 			name = IncomingCallNotification1View;
 			path = IncomingCallNotification1View;
 			sourceTree = "<group>";
 		};
-		F0BEA51A6B727D0A46EEFA1A /* AppnavigationView */ = {
+		AD689CB65462AD6768179BDC /* Cell */ = {
 			isa = PBXGroup;
 			children = (
-				E2729101119E96DED0429801 /* AppnavigationView.swift */,
-				41EAAE492621697BF5BC0E77 /* AppnavigationViewModel.swift */,
-			);
-			name = AppnavigationView;
-			path = AppnavigationView;
-			sourceTree = "<group>";
-		};
-		FDFD5E5DDB26973C10A9905B /* Cell */ = {
-			isa = PBXGroup;
-			children = (
-				0FF96886832CCE78AD8F6C7C /* Group5Cell.swift */,
-				922860A368C84828F86CA67E /* Group6Cell.swift */,
+				39C0026E58C4EF2080346621 /* Group1Cell.swift */,
+				A5E0588812A261A2CD32EAA0 /* Group2Cell.swift */,
 			);
 			name = Cell;
 			path = Cell;
 			sourceTree = "<group>";
 		};
-		FE83C32ED89F11F49125D682 /* TelegramXMainScreenView */ = {
+		B36662AB15E2459FB3C6ECA1 /* IncomingCallNotificationView */ = {
 			isa = PBXGroup;
 			children = (
-				7A488C8CCA000F3115D2F1B8 /* TelegramXMainScreenView.swift */,
-				30DF3A97BD867B033B896970 /* Cell */,
-				4C97736BA700B3E57EF9B288 /* TelegramXMainScreenViewModel.swift */,
+				73229422C41B680666ED3BD5 /* IncomingCallNotificationView.swift */,
+				AD689CB65462AD6768179BDC /* Cell */,
+				8D1EFC2D92C9C6DF23A343C0 /* IncomingCallNotificationViewModel.swift */,
 			);
-			name = TelegramXMainScreenView;
-			path = TelegramXMainScreenView;
+			name = IncomingCallNotificationView;
+			path = IncomingCallNotificationView;
+			sourceTree = "<group>";
+		};
+		F6DB73751A1ECAF402051511 /* Cell */ = {
+			isa = PBXGroup;
+			children = (
+				F957BFF3E6E8F41BF5EB6673 /* Group3Cell.swift */,
+				B77B4A1293C79A7F098EDD52 /* Group4Cell.swift */,
+			);
+			name = Cell;
+			path = Cell;
+			sourceTree = "<group>";
+		};
+		FCFA0A30D27C696BE31667F6 /* Cell */ = {
+			isa = PBXGroup;
+			children = (
+				ABD341DA9DB0B7513C2B8504 /* GroupCell.swift */,
+			);
+			name = Cell;
+			path = Cell;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -453,9 +453,9 @@
 			files = (
 				88ED74EF272FFE6F0088E3EF /* Preview Assets.xcassets in Resources */,
 				88ED74EC272FFE6F0088E3EF /* Assets.xcassets in Resources */,
-				348621556FB97262C206986F /* robotobold700.ttf in Resources */,
-				B2B342BF3E118D504A577357 /* robotomedium500.ttf in Resources */,
-				396E2BDADB9F2763FE729045 /* robotoregular400.ttf in Resources */,
+				2DEF59C52D3DAD3183FB73C1 /* robotobold700.ttf in Resources */,
+				6B29171573E12602ADA30B5C /* robotomedium500.ttf in Resources */,
+				4BD82FE96A0F6034DB056E85 /* robotoregular400.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -478,32 +478,32 @@
 				88680D1C2775C601002E964F /* ViewportHelper.swift in Sources */,
 				88ED7501272FFECA0088E3EF /* AppConstants.swift in Sources */,
 				884F3E5127B0E65A00963FC4 /* RoundedCornersView.swift in Sources */,
-				222A4D2E4D626B43698FE7F3 /* StringScheme.swift in Sources */,
-				70A98CC15B733EEB908E0C05 /* ColorConstants.swift in Sources */,
-				63CB05DF8323FB46627A96B2 /* FontScheme.swift in Sources */,
-				18DB477AA535E40444BA9D78 /* TelegramXMainScreenView.swift in Sources */,
-				CBD061CC944B5B90E1399762 /* GroupCell.swift in Sources */,
-				C734785CE40F83BFC4098240 /* IncomingCallNotificationView.swift in Sources */,
-				A8E50ECD7E2A966F8E12B64D /* Group1Cell.swift in Sources */,
-				899573992F33757A1EC38F69 /* Group2Cell.swift in Sources */,
-				3996C58B289BC1B812CB0F02 /* IncomingCallNotification1View.swift in Sources */,
-				964E97D46ACDD5CC930679A1 /* Group3Cell.swift in Sources */,
-				47C28E5F12618EF81A300542 /* Group4Cell.swift in Sources */,
-				08AE62D592580C7745554395 /* IncomingCallNotificationMorethanoneprofileView.swift in Sources */,
-				8224505850FE79ED7CDAE995 /* Group5Cell.swift in Sources */,
-				35E469A53C664563C0CA2A09 /* Group6Cell.swift in Sources */,
-				BC93142709E0FE0FF5DA47D9 /* IncomingGroupCallNotificationView.swift in Sources */,
-				730B784D31ADE1C0488F72FC /* Group7Cell.swift in Sources */,
-				A930E1B741EA9B2B90BE66FC /* Group8Cell.swift in Sources */,
-				08AC5E360DEE6248DEC616CA /* IncomingcallinthemiddleofanothercallView.swift in Sources */,
-				4A2DE121DBB152B3776B269E /* AppnavigationView.swift in Sources */,
-				F73C983328ACA1AB9F43FB85 /* IncomingCallNotification1ViewModel.swift in Sources */,
-				2B6E2A6E8B350060746F61C8 /* TelegramXMainScreenViewModel.swift in Sources */,
-				0AB68EAEAF862810EF1BFD80 /* IncomingCallNotificationViewModel.swift in Sources */,
-				784EA282C6DDB7F6B10E5356 /* IncomingCallNotificationMorethanoneprofileViewModel.swift in Sources */,
-				78F7F71DF3612BF72CEA7066 /* AppnavigationViewModel.swift in Sources */,
-				2DEFA1A37BD1990EFEBCF70A /* IncomingcallinthemiddleofanothercallViewModel.swift in Sources */,
-				2E094E4E42FB26C38FDC888B /* IncomingGroupCallNotificationViewModel.swift in Sources */,
+				D2B8F6566C926FC310B455E6 /* StringScheme.swift in Sources */,
+				99485A51CDFCEDC622BEB2B1 /* ColorConstants.swift in Sources */,
+				24B8DD5F4A5D8C87BA8BCD90 /* FontScheme.swift in Sources */,
+				3108DCA1F043A4AAEF054BEA /* TelegramXMainScreenView.swift in Sources */,
+				A21BEB78CA1AA2582901E170 /* GroupCell.swift in Sources */,
+				8B796DA338B3EDA679538E71 /* IncomingCallNotificationView.swift in Sources */,
+				5BD065958E507B0B05A5498C /* Group1Cell.swift in Sources */,
+				15691876BCCF581CE55AC307 /* Group2Cell.swift in Sources */,
+				866F55F8AF6B08E6A3DFEB7D /* IncomingCallNotification1View.swift in Sources */,
+				5FFD8DB5F9F96A0501261A6D /* Group3Cell.swift in Sources */,
+				39B6ED6253FD6D6A30078602 /* Group4Cell.swift in Sources */,
+				285CAFE556F23A7337031310 /* IncomingCallNotificationMorethanoneprofileView.swift in Sources */,
+				1FC53811E820074D50C94537 /* Group5Cell.swift in Sources */,
+				AA2A98DCE4A3E4E034C2480B /* Group6Cell.swift in Sources */,
+				3FDC531D811D48426C7EF3F2 /* IncomingGroupCallNotificationView.swift in Sources */,
+				29826781A1B609B3C178C9F4 /* Group7Cell.swift in Sources */,
+				8884CA5D64E68BC0D758CCF6 /* Group8Cell.swift in Sources */,
+				EB2F084DBF8D3AB4CEBA9AC5 /* IncomingcallinthemiddleofanothercallView.swift in Sources */,
+				291BD0090B2F0D2A7234646D /* AppnavigationView.swift in Sources */,
+				EEC53FDDF749E4946CEF373D /* IncomingCallNotification1ViewModel.swift in Sources */,
+				1DF95EE6C8236F4241677A6F /* TelegramXMainScreenViewModel.swift in Sources */,
+				8C88F8693E26075971D70998 /* IncomingCallNotificationViewModel.swift in Sources */,
+				9C4742C684C54BACC26F1644 /* IncomingCallNotificationMorethanoneprofileViewModel.swift in Sources */,
+				54C840504EAB454CC64E91F0 /* AppnavigationViewModel.swift in Sources */,
+				8A1FC8B0BF9C292C1647CECA /* IncomingcallinthemiddleofanothercallViewModel.swift in Sources */,
+				9FE258FBFCD67A44FAA49729 /* IncomingGroupCallNotificationViewModel.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
